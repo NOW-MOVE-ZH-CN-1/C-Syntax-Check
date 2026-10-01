@@ -1,0 +1,3 @@
+/media/cpy/abc/Code/CPP/main2/Make/CMakeFiles/rebuild_cache.dir
+/media/cpy/abc/Code/CPP/main2/Make/CMakeFiles/edit_cache.dir
+/media/cpy/abc/Code/CPP/main2/Make/CMakeFiles/main.dir
